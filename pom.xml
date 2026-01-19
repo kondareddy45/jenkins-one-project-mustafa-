@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>8.6.9</version>
+	<version>8.7.0</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <id>MyRepository</id>
+		    <url>http://54.215.254.164:8081/repository/MyRepository/</url>
 		</repository>
   	</distributionManagement>
 	
